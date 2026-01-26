@@ -1,0 +1,19 @@
+#Python cache
+__pycache__/
+*.py[cod]
+
+#Virtual environment
+venv/
+.venv/
+
+#Pytest cache
+.pytest_cache/
+
+#Selenium drivers
+drivers/
+
+#VS Code settings
+.vscode/
+
+#Logs
+*.log
